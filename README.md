@@ -1,6 +1,6 @@
 # Using Google Invisible reCAPTCHA in the ASP.NET Login Page
 
-<img src="https://www.clevercomponents.com/images/recaptcha-4.jpg" />
+<img align="left" src="https://www.clevercomponents.com/images/recaptcha-4.jpg" />
 
 Google reCAPTCHA protects you against spam and other types of automated abuse. It is used to stop spam on a website and verify whether a user is a human.
 

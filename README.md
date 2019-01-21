@@ -10,4 +10,5 @@ There are three possible types of invoking invisible reCAPTCHA: automatically bi
 
 In this document, the challenge is invoked programmatically after pressing the Login ASP.NET button on the form.
 
-<a target="_blank" href="https://www.clevercomponents.com/articles/article045/">Read the article</a>
+[Read the article](https://www.clevercomponents.com/articles/article045/){:target="_blank"}
+
